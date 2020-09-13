@@ -8,7 +8,7 @@ BTBD for his hwid spoofer so level can paste his driver no problem
 
 z175 and his friends @wlan @DarthTon @vmcall @fisherprice for kdmapper
 
-Bucciarati#1337 / ZeraX (me) for reversing + dumping driver and loader
+ZeraX#1337 for reversing + dumping driver and loader
 
 Cheating.Win does a lot of rebrands, and one of them is strawberry (please do not give hate to disrupt, he did not know this untill i dumped it.)
 then i got my hands on strawberrys loader, and decided to give it a shot since level is a huge dickhead paster cunt, after a few hours, i was doing it
