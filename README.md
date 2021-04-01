@@ -20,3 +20,6 @@ referenced in ur kdmapper, so ur driver is obviously not streamed so yeah lol GG
 
 
 Filename for driver posted in this github, "C:\Windows\Strawberry - serial.tmp" you can write anything to it and load driver, and it will change serial to that :)
+
+
+bump
